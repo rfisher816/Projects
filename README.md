@@ -1,2 +1,1 @@
-# Projects
-Guided Capstone 1
+# Springboard Data Science Career Track
