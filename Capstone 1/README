@@ -1,0 +1,7 @@
+Capstone 1 - Predicting Movie Rating
+
+The different files in this folder are:
+- Data Wrangling - in this file, I started loading and cleaning up the data.
+- Data Wrangling and EDA - in this file, I finished cleaning the data and did a statistical analysis on the data
+- Feature Engineering - in this file I added and modified features
+- Modeling - this file is where the modeling took place
